@@ -1,1 +1,49 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"><plist version="1.0"><dict><key>items</key><array><dict><key>assets</key><array><dict><key>kind</key><string>software-package</string><key>url</key><string>http://app.51zuosi.com/iosApp.ipa</string></dict><dict><key>kind</key><string>full-size-image</string><key>needs-shine</key><true/><key>url</key><string>http://app.51zuosi.com/mobile.png</string></dict><dict><key>kind</key><string>display-image</string><key>needs-shine</key><true/><key>url</key><string>http://app.51zuosi.com/mobile.png</string></dict></array><key>metadata</key><dict><key>bundle-identifier</key><string>com.ios.SHSUYITC1441628917</string><key>bundle-version</key><string>3_3_1</string><key>kind</key><string>software</string><key>subtitle</key><string>xyzs</string><key>title</key><string>51×÷ËÀÍøAPP ÃâÔ½Óü°æ±¾</string></dict></dict></array></dict></plist>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://app.51zuosi.com/iosApp.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://app.51zuosi.com/mobile.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://app.51zuosi.com/mobile.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.ios.SHSUYITC1441629764</string>
+				<key>bundle-version</key>
+				<string>3_3_1</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>xyzs</string>
+				<key>title</key>
+				<string>51ä½œæ­»ç½‘APP å…è¶Šç‹±ç‰ˆæœ¬</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
