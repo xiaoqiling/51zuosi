@@ -13,35 +13,17 @@
 					<key>url</key>
 					<string>http://ofj587o60.bkt.clouddn.com/%E4%BD%9C%E6%AD%BB%E8%B4%AD.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://app.51zuosi.com/mobile.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://app.51zuosi.com/mobile.png</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ios.SHSUYITC1441633627</string>
+				<string>com.zuosi.app</string>
 				<key>bundle-version</key>
-				<string>3_3_1</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>subtitle</key>
-				<string>xyzs</string>
 				<key>title</key>
-				<string>免越狱</string>
+				<string>zuosiapp</string>
 			</dict>
 		</dict>
 	</array>
